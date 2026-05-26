@@ -1,6 +1,5 @@
 # LLM Fine-Tuning Paradigms
 
-![LLM Fine-Tuning Mind Map](image.png)
 
 > Start with a high-level taxonomy before diving into each concept.
 
